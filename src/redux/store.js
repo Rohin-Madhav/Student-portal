@@ -6,4 +6,4 @@ const Store = configureStore({
         students: studentReducer,
     },
 })
-export  default Storetore
+export  default Store
